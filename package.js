@@ -1,7 +1,7 @@
 Package.describe({
   name: 'flowkey:bigscreen',
   summary: 'A simple library for using the JavaScript Fullscreen API',
-  version: '1.0.1',
+  version: '1.0.2',
   git: 'https://github.com/flowkey/bigscreen.git'
 });
 
